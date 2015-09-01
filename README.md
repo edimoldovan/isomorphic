@@ -1,5 +1,3 @@
-![screenshot](https://i.imgur.com/4EaXKi8.png?1)
-
 # React Isomorphic Starterkit
 
 Isomorphic starterkit with server-side React rendering using 
